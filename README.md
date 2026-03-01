@@ -1,6 +1,6 @@
 # About Me
 
-##Interests:
+## Interests:
 Topics: Data science, cryptography, cybersecurity, and baseball. 
 
 Languages: C++, BASH scripting, Python, SQL, ASM, Chinese, and Taiwanese.
