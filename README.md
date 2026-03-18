@@ -12,7 +12,7 @@ Languages: C++, BASH scripting, Python, SQL, ASM, Chinese, and Taiwanese.
 - Part of team that consistently placed top percentile in Cyberpatriot competitions
 
 ## Things I'm doing:
-- Still coaching high school baseball
+- Current head coach of Whitney high school baseball (US News Ranked #1 Academic school in California)
 - Working towards a B.S in Computer Science at Cal State Fullerton
 - Learning how to apply and implement neural networks
     - Ultimate goal is to apply neural networks to scouting applications in baseball
