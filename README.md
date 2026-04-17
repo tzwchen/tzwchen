@@ -11,7 +11,7 @@ Languages: C++, BASH scripting, Python, SQL, ASM, Chinese, and Taiwanese.
 - Part of team that consistently placed top percentile in Cyberpatriot competitions
 
 ## Things I'm doing:
-- Working towards a B.S in Computer Science at Cal State Fullerton
+- Working towards a B.S in Computer Science and a minor in mathematics at Cal State Fullerton
 - Learning how to apply and implement neural networks
     - Exploring how to apply neural networks to scouting applications in baseball
 - Expanding my interests in cryptology and security research. 
