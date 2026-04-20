@@ -17,5 +17,5 @@ Languages: C++, BASH scripting, Python, SQL, ASM, Chinese, and Taiwanese.
 - Expanding my interests in cryptology and security research. 
 - Learning how to grow, improve, and implement hand-in-hand my knowledge of computer science and love of baseball.
 
-# GO CARDINALS!
+
  
