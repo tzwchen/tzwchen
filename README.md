@@ -14,9 +14,7 @@ Languages: English, Chinese, and Taiwanese.
 
 ### Things I'm doing:
 - Working towards a B.S in Computer Science and a minor in Mathematics at Cal State Fullerton
-- Learning how to apply and implement neural networks in
-      - Baseball
-      - Cryptology
+- Learning how to apply and implement neural networks in baseball and cybersecurity
 
 
  
