@@ -3,7 +3,7 @@
 ### Interests:
 Topics: Data science, cryptography, cybersecurity, and baseball. 
 
-Skills: Databases, neural networks, pen testing, and vulnerability assessment
+Skills: Databases, neural networks, pen testing, algorithms and vulnerability assessment
 
 Languages: English, Chinese, and Taiwanese.
 
