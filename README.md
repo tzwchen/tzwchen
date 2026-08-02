@@ -10,7 +10,7 @@ Languages: English, Chinese, and Taiwanese.
 ### Things I've done:
 - Youngest head coach to win a conference game in conference history
 - Eagle scout
-- Part of team that consistently placed top 90% percentile in Cyberpatriot competitions
+- Co-Founder of EARN Baseball
 
 ### Things I'm doing:
 - Working towards a B.S in Computer Science and a minor in Mathematics at Cal State Fullerton
