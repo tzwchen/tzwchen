@@ -1,7 +1,7 @@
 # About Me
 
 ### Interests:
-Topics: Data science, cryptography, cybersecurity, and baseball. 
+Data science, TWICE, cryptography, cybersecurity, and baseball. 
 
 Skills: Databases, neural networks, pen testing, algorithms and vulnerability assessment
 
