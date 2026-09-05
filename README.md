@@ -1,9 +1,9 @@
 # About Me
 
 ### Interests:
-Data science, TWICE, cryptography, cybersecurity, and baseball. 
+Data science, cryptography, cybersecurity, and baseball. 
 
-Skills: Databases, neural networks, pen testing, algorithms and vulnerability assessment
+Skills: Databases, neural networks, pen testing, algorithms and vulnerability assessment. You also won't find a better hitting coach
 
 Languages: English, Chinese, and Taiwanese.
 
