@@ -16,6 +16,7 @@ Learning: Korean, Japanese
 
 ### Things I'm doing:
 - Working towards a B.S in Computer Science and a minor in Mathematics at Cal State Fullerton
+- Helping international Asian players connect to American collegiate baseball opportunities
 
 
  
