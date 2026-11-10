@@ -12,6 +12,7 @@ Learning: Korean, Japanese
 - Eagle scout
 - Technical Co-Founder of EARN Baseball (Now scaled to 100+ users!)
   https://x.com/EARNBaseball (13.5k+ followers)
+  https://www.instagram.com/earnbaseball/ (1.5k followers)
 
 ### Things I'm doing:
 - Working towards a B.S in Computer Science and a minor in Mathematics at Cal State Fullerton
