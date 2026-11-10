@@ -11,6 +11,7 @@ Learning: Korean, Japanese
 - Youngest head coach to win a conference game in conference history
 - Eagle scout
 - Technical Co-Founder of EARN Baseball (Now scaled to 100+ users!)
+
   https://x.com/EARNBaseball (13.5k+ followers)
   https://www.instagram.com/earnbaseball/ (1.5k followers)
 
